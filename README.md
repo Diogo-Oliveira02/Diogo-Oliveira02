@@ -5,7 +5,7 @@
 
 # Estatísticas
 ![Status](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=holi&count_private=true&custom_title=Status)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Oliveira02&theme=holi&layout=normal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Oliveira02&theme=holi&layout=normal&custom_title=)
 
 <br>
 
