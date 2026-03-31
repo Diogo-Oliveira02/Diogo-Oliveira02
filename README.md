@@ -4,8 +4,8 @@
 > - 🔍 Buscando ser 1% melhor a cada dia
 > - ⛪ Cristão
 
-"Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente..."
-Tiago 1:5
+> "O Senhor Deus colocou o homem no jardim do Éden para cuidar dele e cultivá-lo."
+> — *Gênesis 2:15*
 
 # Estatísticas
 ![Status](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=holi&count_private=true)
