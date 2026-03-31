@@ -2,6 +2,10 @@
 > - 📜 Curso tecnico: Desenvovimento de Sistema
 > - 📚 Facudade: Analise e Desenvolvimento de Sistema (Cursando)
 > - 🔍 Buscando ser 1% melhor a cada dia
+> - ⛪ Cristão
+
+"Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente..."
+Tiago 1:5
 
 # Estatísticas
 ![Status](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=holi&count_private=true)
