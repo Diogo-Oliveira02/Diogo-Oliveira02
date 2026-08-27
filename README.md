@@ -7,11 +7,6 @@
 > "O Senhor Deus colocou o homem no jardim do Éden para cuidar dele e cultivá-lo."
 > — *Gênesis 2:15*
 
-# Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Oliveira02&theme=holi&layout=normal)
-
 <br>
 
 # Stacks
