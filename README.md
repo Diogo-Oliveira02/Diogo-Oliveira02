@@ -8,7 +8,7 @@
 > — *Gênesis 2:15*
 
 # Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-Oliveira02&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Oliveira02&theme=holi&layout=normal)
 
